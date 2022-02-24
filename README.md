@@ -1,0 +1,2 @@
+# Snoid-Bot
+A bot
